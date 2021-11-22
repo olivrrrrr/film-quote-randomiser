@@ -1,13 +1,8 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  /* // background-image: url(https://image.freepik.com/free-vector/burger-seamless-pattern-background-vector-design_22159-34.jpg); */
+
+  background-image: url(https://image.freepik.com/free-vector/seamless-pattern-with-cinema-elements_225004-1154.jpg)
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
